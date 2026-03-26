@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giorgi
 - 👀 I’m addicted to programming
 - 🌱 I’m currently working as a software engineer
-- 💞️ Golang and Python are the languages of my choice
+- 💞️ Golang, Python, Ruby are the languages of my choice
 
 <!---
 GiOPATH/GiOPATH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
