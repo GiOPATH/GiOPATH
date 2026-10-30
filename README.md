@@ -1,5 +1,5 @@
 ### Hi there, I'm Giorgi Katamadze 👋
-**Senior Software Engineer** specializing in **Go, Python, and AI-driven systems**. 
+**Senior Software Engineer** specializing in **Go, Ruby on Rails, Python, and AI-driven systems**. 
 
 I build high-performance backend architectures, distributed data pipelines, and production-ready SaaS products from scratch. I aggressively leverage AI workflows (Claude Code, LLM pipelines) to ship features at high velocity.
 
